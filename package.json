@@ -6,7 +6,8 @@
     "qs": "^6.5.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-select": "^1.0.0-rc.5"
+    "react-select": "^1.0.0-rc.5",
+    "react-plotlyjs": "*"
   },
   "devDependencies": {
     "react-scripts": "1.0.11"
